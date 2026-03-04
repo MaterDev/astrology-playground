@@ -1,0 +1,10 @@
+jyotishganit
+jupyterlab
+pandas
+matplotlib
+skyfield
+ipykernel
+jyotichart
+fpdf2
+svglib
+reportlab
